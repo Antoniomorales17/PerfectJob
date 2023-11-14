@@ -10,7 +10,6 @@
    - [Mi cuenta](https://expo.dev/accounts/antoniomora/projects/jobs/updates/cc7553ec-68cd-4288-852c-b40020228979)
    
 
-2. Escanea el código QR directamente
    Android &  Ios
  ![android](https://i.imgur.com/Cdq8Up2.png)
   
