@@ -7,10 +7,12 @@
 ### Expo Go
 
 1. Accede directamente desde la cuenta EXPO:
+   
     [Mi cuenta](https://expo.dev/accounts/antoniomora/projects/jobs/updates/cc7553ec-68cd-4288-852c-b40020228979)
+   2. Android &  Ios
    
 
-2. Android &  Ios
+
  ![android](https://i.imgur.com/Cdq8Up2.png)   ![Ios](https://i.imgur.com/E0sMZmE.png)
    
    
