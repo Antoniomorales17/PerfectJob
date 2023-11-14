@@ -11,9 +11,9 @@
    
 
 2. Escanea el código QR directamente
-   Android
+   Android &  Ios
  ![android](https://i.imgur.com/Cdq8Up2.png)
-   Ios
+  
  ![Ios](https://i.imgur.com/E0sMZmE.png)
    
    
